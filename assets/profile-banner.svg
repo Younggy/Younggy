@@ -67,13 +67,13 @@
     <circle cx="1186" cy="123" r="5" fill="#22D3EE"/>
   </g>
 
-  <rect x="86" y="87" width="142" height="30" rx="15" fill="#082F49" stroke="#0EA5E9"/>
-  <text x="111" y="108" fill="#7DD3FC" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="1.2">LIVE RESEARCH</text>
+  <rect x="86" y="87" width="104" height="30" rx="15" fill="#0F172A" stroke="#334155"/>
+  <text x="111" y="108" fill="#94A3B8" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="1.2">QUANT</text>
 
   <text x="84" y="174" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="62" font-weight="700">YOUNGGY</text>
-  <text x="84" y="224" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="24">Quant Research  /  Trading Infra  /  Data Pipelines</text>
-  <text x="84" y="276" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="21">Building signal-driven systems from raw market structure to usable strategy data.</text>
-  <text x="84" y="320" fill="#14B8A6" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="18">orderbook.alpha  ::  polymarket.flow  ::  onchain.metrics  ::  reproducible.etl</text>
+  <text x="84" y="224" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="24">Quant Research  /  Systematic Trading  /  Data Engineering</text>
+  <text x="84" y="276" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="21">Clean and practical work around data, research, and trading systems.</text>
+  <text x="84" y="320" fill="#94A3B8" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="18">python  ::  research  ::  data  ::  systems</text>
 
   <g opacity="0.7">
     <rect x="84" y="341" width="108" height="4" rx="2" fill="#22D3EE"/>

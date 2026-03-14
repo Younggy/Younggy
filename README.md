@@ -5,14 +5,13 @@
 <h1 align="center">Younggy / Tuxima</h1>
 
 <p align="center">
-  Quant Researcher • Trading Infra Builder • Data Pipeline Engineer
+  Quant Research • Systematic Trading • Data Engineering
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/focus-orderbook%20microstructure-0f766e?style=flat-square" alt="focus orderbook microstructure" />
-  <img src="https://img.shields.io/badge/focus-crypto%20research-0f172a?style=flat-square" alt="focus crypto research" />
-  <img src="https://img.shields.io/badge/focus-polymarket-0ea5e9?style=flat-square" alt="focus polymarket" />
-  <img src="https://img.shields.io/badge/stack-python%20%7C%20pytorch%20%7C%20parquet-1d4ed8?style=flat-square" alt="stack python pytorch parquet" />
+  <img src="https://img.shields.io/badge/focus-quant-0f172a?style=flat-square" alt="focus quant" />
+  <img src="https://img.shields.io/badge/stack-python%20%7C%20data-1f2937?style=flat-square" alt="stack python data" />
+  <img src="https://img.shields.io/badge/style-clean%20and%20simple-334155?style=flat-square" alt="style clean and simple" />
 </p>
 
 <p align="center">
@@ -20,34 +19,26 @@
   <img src="https://img.shields.io/github/followers/Younggy?style=flat-square&color=0f766e" alt="GitHub followers" />
 </p>
 
-## /about_me
+## About
 
 ```yaml
 name: Younggy
 alias: Tuxima
-role: Quant researcher + infra-minded builder
+role: Quant researcher
 base: Shanghai, China
-working_on:
-  - crypto market microstructure
-  - orderbook alpha research
-  - event market / polymarket analysis
-  - research-grade ETL and data validation
-build_style:
-  - fewer slides, more datasets
-  - fewer buzzwords, more reproducible pipelines
-  - fewer stories, more signals
+focus:
+  - quantitative research
+  - systematic trading
+  - data engineering
+preferences:
+  - simple
+  - reproducible
+  - pragmatic
 ```
 
-I like turning messy market data into usable research assets, then pushing those ideas into strategy tooling that can actually run.
+Interested in building reliable research workflows and clean data foundations for quant-related work.
 
-## /current_map
-
-- `tardis_etl`: build and QC large-scale orderbook datasets from raw exchange snapshots.
-- `ob_research`: mine microstructure signals like imbalance, turnover, and depth-driven factors.
-- `glassnode_research`: transform PIT on-chain metrics into factor-ready tables.
-- `polymarket_research`: study prediction-market flow, reversal behavior, and trader structure.
-
-## /toolkit
+## Toolkit
 
 <p>
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=7dd3fc" alt="Python" />
@@ -60,19 +51,9 @@ I like turning messy market data into usable research assets, then pushing those
   <img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=7dd3fc" alt="Jupyter" />
 </p>
 
-## /github_signal
+## GitHub
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Younggy&show_icons=true&hide_border=true&rank_icon=github&title_color=38bdf8&text_color=cbd5e1&icon_color=22d3ee&bg_color=00000000" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Younggy&layout=compact&hide_border=true&title_color=38bdf8&text_color=cbd5e1&bg_color=00000000" alt="Top languages" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Younggy&bg_color=020617&color=cbd5e1&line=38bdf8&point=22d3ee&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
-</p>
-
-## /now
-
-- Building cleaner research pipelines for high-frequency and event-driven market data.
-- Looking for sharper signals in orderbook structure, on-chain metrics, and trader behavior.
-- Turning research notebooks into repeatable infra instead of one-off experiments.
