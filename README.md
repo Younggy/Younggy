@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/focus-quant-0f172a?style=flat-square" alt="focus quant" />
-  <img src="https://img.shields.io/badge/stack-python%20%7C%20data-1f2937?style=flat-square" alt="stack python data" />
+  <img src="https://img.shields.io/badge/stack-python%20%7C%20rust%20%7C%20ml-1f2937?style=flat-square" alt="stack python rust ml" />
   <img src="https://img.shields.io/badge/style-clean%20and%20simple-334155?style=flat-square" alt="style clean and simple" />
 </p>
 
@@ -42,13 +42,12 @@ Interested in building reliable research workflows and clean data foundations fo
 
 <p>
   <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=7dd3fc" alt="Python" />
-  <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=7dd3fc" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-111827?style=for-the-badge&logo=numpy&logoColor=7dd3fc" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Rust-111827?style=for-the-badge&logo=rust&logoColor=7dd3fc" alt="Rust" />
   <img src="https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=7dd3fc" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Parquet-111827?style=for-the-badge&logo=databricks&logoColor=7dd3fc" alt="Parquet" />
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=7dd3fc" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=7dd3fc" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=7dd3fc" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=7dd3fc" alt="Git" />
-  <img src="https://img.shields.io/badge/Jupyter-111827?style=for-the-badge&logo=jupyter&logoColor=7dd3fc" alt="Jupyter" />
 </p>
 
 ## GitHub
